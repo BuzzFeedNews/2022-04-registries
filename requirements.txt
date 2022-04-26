@@ -1,0 +1,12 @@
+pandas==1.2.1
+pandas-flavor==0.2.0
+pandas-log==0.1.7
+numpy==1.20.0
+nbexec==0.1.0
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console==6.2.0
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+openpyxl==3.0.6

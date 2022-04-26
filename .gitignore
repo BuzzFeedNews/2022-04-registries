@@ -1,0 +1,12 @@
+.DS_Store
+venv
+.ipynb_checkpoints
+# PII
+mi_full.*
+MI_subs.ipynb
+trash
+# pre processing
+data/county_B03002
+data/county_S0901
+data/state_B03002
+data/state_S0901
